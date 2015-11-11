@@ -1,4 +1,4 @@
-# CubeLove - General README 
+
 
 here is what you need to make love to your cubes
 
