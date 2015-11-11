@@ -1,5 +1,6 @@
-# CubeLove
-here is how I make love to my cubes
+# CubeLove - General README 
+
+here is what you need to make love to your cubes
 
 there are multiple programs:
 
