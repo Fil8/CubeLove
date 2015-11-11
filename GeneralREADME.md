@@ -1,8 +1,6 @@
 
 
-** Here is what you need to make love to your cubes
-
-there are multiple programs:
+Here is what you need to make love to your cubes, there are 3 main programs:
 
 cube_love_reduce.ipynb 
 
