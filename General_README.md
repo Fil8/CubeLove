@@ -8,4 +8,5 @@ cube_love.ipynb
  - moment maps
  - extract the spectra
  - determine fluxes and masses
+ - position velocity diagram
  - tools for analysis
